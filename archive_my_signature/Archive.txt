@@ -1,4 +1,5 @@
--[------->+<]>-.-[->+++++<]>++.+++++++..+++.
+単細胞生物 ←→ 多細胞生物
+超個体生物 ←→ 非超個体生物
 [small]
-Final update(JST): 2024/2/19 21:54
+Final update(JST): 2024/3/2 21:11
 Archive file is in Github[/small]
